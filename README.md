@@ -1,2 +1,4 @@
 # json-sound-compiler
-JSON SOUND COMPILER
+
+Mix multiple sounds into one.
+Used to mix a sequence of sounds, like in a sequencer.
